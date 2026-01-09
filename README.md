@@ -68,25 +68,21 @@ The following figure illustrates the comparison of torque response. The DV-MPTC 
   <em>Figure 3: formula derivation.</em>
 </p>
 <p align="center">
-  <img src="assets/2.jpg" alt="Torque Ripple Comparison" width="90%">
+  <img src="assets/3.jpg" alt="Torque Ripple Comparison" width="90%">
   <br>
   <em>Figure 4: formula derivation.</em>
 </p>
 <p align="center">
-  <img src="assets/3.jpg" alt="Torque Ripple Comparison" width="90%">
+  <img src="assets/4.jpg" alt="Torque Ripple Comparison" width="90%">
   <br>
   <em>Figure 5: formula derivation.</em>
 </p>
 <p align="center">
-  <img src="assets/4.jpg" alt="Torque Ripple Comparison" width="90%">
+  <img src="assets/5.jpg" alt="Torque Ripple Comparison" width="90%">
   <br>
   <em>Figure 6: formula derivation.</em>
 </p>
-<p align="center">
-  <img src="assets/5.jpg" alt="Torque Ripple Comparison" width="90%">
-  <br>
-  <em>Figure 7: formula derivation.</em>
-</p>
+
 
 
 
